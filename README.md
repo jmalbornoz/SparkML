@@ -1,2 +1,2 @@
 # SparkML
-A collection of several notebooks demonstrating machine learning models in Spark using Scala
+A collection of several notebooks demonstrating machine learning models and techniques in Spark using Scala
